@@ -188,6 +188,7 @@
             <useReportChart>false</useReportChart>
         </components>
     </middleSection>
+    <owner>sohailshaik.practice@copado.com</owner>
     <rightSection>
         <columnSize>Medium</columnSize>
         <components>

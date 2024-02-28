@@ -75,5 +75,5 @@
         <members>copado__Webhook_Settings</members>
         <name>FlexiPage</name>
     </types>
-    <version>59.0</version>
+    <version>60.0</version>
 </Package>
