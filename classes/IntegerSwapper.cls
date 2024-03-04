@@ -3,6 +3,5 @@ public class IntegerSwapper {
         Integer temp = a;
         a = b;
         b = temp;
-        //This chnage is done by CLI
     }
 }

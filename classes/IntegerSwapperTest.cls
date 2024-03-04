@@ -12,6 +12,5 @@ private class IntegerSwapperTest {
         
         System.assertEquals(10, a);
         System.assertEquals(5, b);
-        //This chnage is done by CLI
     }
 }
