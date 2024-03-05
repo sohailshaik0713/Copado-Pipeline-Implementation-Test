@@ -10,5 +10,6 @@ private class OddNumberIdentifierTest {
         Integer evenNumber = 6;
         System.assertEquals(false, OddNumberIdentifier.isOdd(evenNumber), 'Even number check failed.');
          //This Change from VS Code
+         //Change2
     }
 }
