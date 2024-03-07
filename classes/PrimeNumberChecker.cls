@@ -11,5 +11,6 @@ public class PrimeNumberChecker {
             }
         }
         return true;
+        //Change 1
     }
 }
